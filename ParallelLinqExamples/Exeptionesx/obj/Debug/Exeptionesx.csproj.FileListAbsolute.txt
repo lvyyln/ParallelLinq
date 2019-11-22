@@ -1,0 +1,6 @@
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Exeptionesx\bin\Debug\Exeptionesx.exe.config
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Exeptionesx\bin\Debug\Exeptionesx.exe
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Exeptionesx\bin\Debug\Exeptionesx.pdb
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Exeptionesx\obj\Debug\Exeptionesx.csprojAssemblyReference.cache
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Exeptionesx\obj\Debug\Exeptionesx.exe
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Exeptionesx\obj\Debug\Exeptionesx.pdb

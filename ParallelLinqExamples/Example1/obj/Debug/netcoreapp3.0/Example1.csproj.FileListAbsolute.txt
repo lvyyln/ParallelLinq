@@ -1,0 +1,11 @@
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example1\bin\Debug\netcoreapp3.0\Example1.exe
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example1\bin\Debug\netcoreapp3.0\Example1.deps.json
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example1\bin\Debug\netcoreapp3.0\Example1.runtimeconfig.json
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example1\bin\Debug\netcoreapp3.0\Example1.runtimeconfig.dev.json
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example1\bin\Debug\netcoreapp3.0\Example1.dll
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example1\bin\Debug\netcoreapp3.0\Example1.pdb
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example1\obj\Debug\netcoreapp3.0\Example1.csprojAssemblyReference.cache
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example1\obj\Debug\netcoreapp3.0\Example1.AssemblyInfoInputs.cache
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example1\obj\Debug\netcoreapp3.0\Example1.AssemblyInfo.cs
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example1\obj\Debug\netcoreapp3.0\Example1.dll
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example1\obj\Debug\netcoreapp3.0\Example1.pdb

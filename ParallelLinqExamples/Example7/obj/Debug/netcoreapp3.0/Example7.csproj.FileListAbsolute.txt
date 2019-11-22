@@ -1,0 +1,11 @@
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example7\bin\Debug\netcoreapp3.0\Example7.exe
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example7\bin\Debug\netcoreapp3.0\Example7.deps.json
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example7\bin\Debug\netcoreapp3.0\Example7.runtimeconfig.json
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example7\bin\Debug\netcoreapp3.0\Example7.runtimeconfig.dev.json
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example7\bin\Debug\netcoreapp3.0\Example7.dll
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example7\bin\Debug\netcoreapp3.0\Example7.pdb
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example7\obj\Debug\netcoreapp3.0\Example7.AssemblyInfoInputs.cache
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example7\obj\Debug\netcoreapp3.0\Example7.AssemblyInfo.cs
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example7\obj\Debug\netcoreapp3.0\Example7.dll
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example7\obj\Debug\netcoreapp3.0\Example7.pdb
+C:\Users\lvyyl\source\repos\ParallelLinqExamples\Example7\obj\Debug\netcoreapp3.0\Example7.csprojAssemblyReference.cache
